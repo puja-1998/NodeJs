@@ -1,0 +1,12 @@
+{
+  "name": "own-package-creation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Puja",
+  "license": "ISC",
+  "description": "My Own package"
+}
