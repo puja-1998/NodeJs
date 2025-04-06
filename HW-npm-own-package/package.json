@@ -1,0 +1,12 @@
+{
+  "name": "hw-npm-own-package",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["array", "utils", "higher-order", "HOF", "functional"],
+  "author": "Puja",
+  "license": "ISC",
+  "description": "A set of magical higher-order functions for arrays."
+}
